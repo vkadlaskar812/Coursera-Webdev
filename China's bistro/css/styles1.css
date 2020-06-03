@@ -1,0 +1,46 @@
+ body{
+ 	font-size: 17px;
+ 	color: #000000 ;
+ 	background-color: #B80000 ;
+ 	font-family: 'Averia Gruesa Libre';font-size: 22px;
+ }
+
+ /**Header**/
+ #header-nav{
+ 	background-color: black;
+ 	height: 120px;
+ 	border-radius: 0px;
+ 	border: 0px; 
+ } 
+
+ #logo{
+ 	position:relative;
+ 	right: 80px;
+
+ 	background: url("C:/Users/Vikrant/Desktop/hotel1.png") no-repeat;
+ 	width:100px;
+ 	height:100px;
+ 	margin-left: 20px ;
+ 	float: left;
+ 	
+ }
+
+ .navbar-brand{
+ 	padding-top: 25px;
+ }  
+ .navbar-brand h1{
+ 	color: #800000;
+ 	text-transform: uppercase;
+ 	font-weight: bold;
+ 	text-shadow: 1px 1px #FFF8DC;
+ 	font-family: 'Kalam', cursive;
+
+ }
+ .navbar-brand a:hover , a:focus{
+ 	text-decoration: none;
+
+ }
+ .navbar-toggler span:hover{
+ 	background:white;
+
+ }
